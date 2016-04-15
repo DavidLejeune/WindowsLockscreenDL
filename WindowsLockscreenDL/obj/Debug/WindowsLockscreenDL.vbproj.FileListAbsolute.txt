@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\bin\Debug\WindowsLockscreenDL.exe.config
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\bin\Debug\WindowsLockscreenDL.exe
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\bin\Debug\WindowsLockscreenDL.pdb
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\bin\Debug\WindowsLockscreenDL.xml
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.vbprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.exe
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.xml
+c:\users\david\documents\visual studio 2015\Projects\WindowsLockscreenDL\WindowsLockscreenDL\obj\Debug\WindowsLockscreenDL.pdb
